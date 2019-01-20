@@ -1,0 +1,7 @@
+.idea/
+private/
+build/
+dist/
+out/
+*.iml
+*.pdf
